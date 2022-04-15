@@ -7,12 +7,12 @@ I will update ReadMe file as I send solutions.
 
 ### Java Solutions
 
-
 - [1 Two Sum Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_1.java "Click")
 - [2 Add Two Numbers](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_2.java "Click")
 - [6 Zigzag Conversion Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_6.java "Click")
 - [7 Reverse Integer Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_7.java "Click")
 - [9 Palindrome Number Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_9.java "Click")
+- [21 Merge Two Sorted Lists](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_21.java "Click")
 - [206 Reverse Linked List Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_206.java "Click")
 - [234 Palindrome Linked ListProblem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_234.java "Click")
 - [771 Jewels and Stones Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_771.java "Click")
