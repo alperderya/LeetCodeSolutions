@@ -18,6 +18,7 @@ I will update ReadMe file as I send solutions.
 - [203 Remove Linked List Elements](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_203.java "Click")
 - [206 Reverse Linked List Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_206.java "Click")
 - [234 Palindrome Linked ListProblem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_234.java "Click")
+- [237 Delete Node in a Linked List](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_237.java "Click")
 - [771 Jewels and Stones Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_771.java "Click")
 - [771 Jewels and Stones Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_771.java "Click")
 - [876 Middle of the Linked List](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_876.java "Click")
