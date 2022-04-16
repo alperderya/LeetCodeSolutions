@@ -23,6 +23,7 @@ I will update ReadMe file as I send solutions.
 - [1528 Shuffle String Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_1528.java "Click")
 - [1929 Concatenation of Array](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_1929.java "Click")
 - [2011 Final Value of Variable After Performing Operations](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_2011.java "Click")
+- [2095 Delete the Middle Node of a Linked List](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_2095.java "Click")
 - [2114 Maximum Number of Words Found in Sentences](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_2114.java "Click")
 - [2235 Add Two Numbers](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_2235.java "Click")
 
