@@ -14,6 +14,7 @@ I will update ReadMe file as I send solutions.
 - [9 Palindrome Number Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_9.java "Click")
 - [19 Remove Nth Node From End of List](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_19.java "Click")
 - [21 Merge Two Sorted Lists](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_21.java "Click")
+- [83 Remove Duplicates from Sorted List](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_83.java "Click")
 - [206 Reverse Linked List Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_206.java "Click")
 - [234 Palindrome Linked ListProblem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_234.java "Click")
 - [771 Jewels and Stones Problem Solution](https://github.com/alperderya/LeetCodeSolutions/blob/master/src/main/java/com/aderya/leetcode/Solution_771.java "Click")
